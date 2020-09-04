@@ -2,9 +2,10 @@
   "name": "mailer",
   "version": "1.0.0",
   "main": "App.js",
+  "homepage": "https://feedform.me",
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test",
