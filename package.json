@@ -2,7 +2,7 @@
   "name": "mailer",
   "version": "1.0.0",
   "main": "App.js",
-  "homepage": ".",
+  "homepage": "http://AniketOnWeb.github.io/AniketOnWeb.github.io",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
