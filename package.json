@@ -2,7 +2,7 @@
   "name": "mailer",
   "version": "1.0.0",
   "main": "App.js",
-  "homepage": "https://feedform.me",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
